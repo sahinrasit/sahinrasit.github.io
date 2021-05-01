@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
+title:  ".NET CORE 3+ Nedir"
 summary: "Getting Started using devlopr-jekyll"
-author: johndoe
+author: rasitsahin
 date: '2019-05-22 14:35:23 +0530'
-category: jekyll
+category: .NET CORE
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/welcome-to-devlopr-jekyll/
