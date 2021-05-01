@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker Kurlumu"
 summary: Writing Equations using Latex
-author: rasitsahin
+author: johndoe
 date: '2020-10-24 10:35:23 +0530'
 category: Docker
 thumbnail: /assets/img/posts/code.jpg
