@@ -37,14 +37,32 @@ typewrite-text: 5 yıllık bir yazılım mühendisinin kalemi
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Koçsistem Bilgi ve İletişim Teknolojileri A.Ş
+              company_logo: koc.png
+              company_url: https://kocsistem.com
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
+            - company_name: Yanmar Holdings
+              company_logo: yanmar.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Koçsistem Bilgi ve İletişim Teknolojileri A.Ş
+              company_logo: koc.png
+              company_url: https://kocsistem.com
+              designation: Software Engineer
+              description: Worked on various Google Products
+              visibility: true
+            - company_name: Eldor Corporation
+              company_logo: eldor.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Ibtech
+              company_logo: ibtech.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
@@ -52,8 +70,14 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
+              - college_logo: ege.png
+                college_name: Ege Üniversitesi
+                college_url: https://mit.org
+                college_degree: CS Engineer
+                description: Bachelor of Technology
+                visibility: true
+              - college_logo: cbu.png
+                college_name: Celal Bayar Üniversitesi
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
@@ -73,14 +97,14 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
+twitter_username: sahiinrasit
+github_username:  sahinrasit
+facebook_username: mrsahinrasit
+linkedin_username: rasitsahin
 behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
+instagram_username: rasitsahiin
+medium_username: rasitsahin
+telegram_username: rasitsahiin
 dribbble_username: johndoe
 flickr_username: johndoe
 
