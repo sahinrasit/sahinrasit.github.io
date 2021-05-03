@@ -36,8 +36,20 @@ author_website_url: "https://sahinrasit.github.io/"
 typewrite-text: 5 yıllık bir yazılım mühendisinin kalemi
 
 # Experiences
-author_work_experiences:
-            - company_name: Koçsistem Bilgi ve İletişim Teknolojileri A.Ş
+author_work_experiences:          
+            - company_name: Ibtech
+              company_logo: ibtech.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Eldor Corporation
+              company_logo: eldor.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
+              - company_name: Koçsistem Bilgi ve İletişim Teknolojileri A.Ş
               company_logo: koc.png
               company_url: https://kocsistem.com
               designation: Software Engineer
@@ -55,18 +67,7 @@ author_work_experiences:
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
-            - company_name: Eldor Corporation
-              company_logo: eldor.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
-            - company_name: Ibtech
-              company_logo: ibtech.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+            
 
 # Education
 author_education_details:
